@@ -17,8 +17,7 @@ After reviewing different buck-boost converters and protection circuits, I desig
 - Charging via DC barrel jack and USB-C
 
 I sketched the initial design using Cirkit Designer.
-![alt text](<Circuit diagram.png>)
-
+![Circuit diagram.png](/CAD/Circuit diagram.png) 
 ---
 
 ## Thursday 5th June: Component Selection and Sourcing (2 hr)
@@ -40,7 +39,7 @@ Today I opened SolidWorks and began designing the case for the power bank. My ma
 - Easy access to internal components for assembly and maintenance
 - A compact form factor
 - Aesthetic personalization — I added my logo and name to the case to make it unique
-![alt text](P1.png) ![alt text](P3.png)
+![P1.png](/CAD/Images/P1.png) ![P3.png](/CAD/Images/P3.png)
 
 ---
 

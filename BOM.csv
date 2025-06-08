@@ -1,0 +1,16 @@
+Component,Qty,EGP/Unit,Total EGP,Purpose,Link
+18650 Li-ion 3350?mAh battery,6,130,780,Battery cells,?? Link
+3S 10A BMS board,2,65,130,Battery protection,?? Link
+USB-PD trigger board,1,200,200,PD 12V trigger,?? Link
+DC jack w/ terminal block,1,75,75,Power connector,?? Link
+Mini push-button 6x6x9mm,2,5,10,Manual input,?? Link
+DC-DC Boost Converter 400W,1,350,350,Voltage step-up,?? Link
+Digital Voltmeter & Ammeter,1,175,175,Display voltage/current,?? Link
+Battery capacity LCD (GY-6),1,170,170,Charge indicator,?? Link
+QC 4.0 Step-Down Module (AliExpress),2,300,600,Fast charging input,?? Link
+USB-C female board (RAM-E),1,75,75,USB-C output,?? Link
+AWG?12 wire (1?m),1?m,100,100,Main high?current wiring,?? Link
+PVC heat-shrink tube (battery wrap),1?m,35,35,Insulates packs,?? Link
+0.2×8?mm plated nickel strip (1?m),1?m,18,18,Battery series weld tabs,?? Link
+Aluminium soldering flux (10?mL),1,60,60,Solder tabs/conductors,?? Link
+Total EGP,2778,Total USD,56$,,

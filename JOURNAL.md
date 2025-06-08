@@ -17,7 +17,7 @@ After reviewing different buck-boost converters and protection circuits, I desig
 - Charging via DC barrel jack and USB-C
 
 I sketched the initial design using Cirkit Designer.
-![Circuit diagram.png](/CAD/Circuit%20diagram1.png) 
+![C1.png](/CAD/Images/C1.png) 
 ---
 
 ## Thursday 5th June: Component Selection and Sourcing (2 hr)
